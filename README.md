@@ -20,3 +20,10 @@ Here are a few technologies I’ve been working with recently:
 - Node.js - A backend framework for JavaScript for handling database interactions with a website.
 - Django - *The web framework for perfectionists with deadlines* - This is a Python framework for creating websites much faster.
 - Figma - A design tool.
+
+## Buy me coffee
+I’m currently looking for any new opportunities, my inbox is always open. Whether you have a question or just want to say hi.
+- [Portfolio](https://eloquent-mcnulty-4cf367.netlify.app/)
+- [Github](https://github.com/mutuotakelvin)
+- [LinkedIn](https://www.linkedin.com/in/kelvin-mutuota/)
+- [Email](mailto:kelvin.mutuota.mwangi@gmail.com)
