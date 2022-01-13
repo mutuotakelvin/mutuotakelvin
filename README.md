@@ -8,3 +8,15 @@ As a web developer, my superpowers occur behind the scenes to make websites look
 
 ## Apps I've Built
 <!-- Todo: Add couple of projects -->
+
+
+## Skills and Technologies
+Here are a few technologies I’ve been working with recently:
+
+- JavaScript - A programming language to make websites interactive.
+- Python - A High level programming language used to build the backend, part of web application responsible for dealing with the database.
+- React - A JavaScript library for creating web applications
+- Next.js - A React framework for creating server side rendered applications which are application living on the server part a web application.
+- Node.js - A backend framework for JavaScript for handling database interactions with a website.
+- Django - *The web framework for perfectionists with deadlines* - This is a Python framework for creating websites much faster.
+- Figma - A design tool.
