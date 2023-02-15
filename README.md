@@ -7,7 +7,7 @@ Full-stack web developer
 * 🌍  I'm based in Machakos, Kenya
 * 🖥️  See my portfolio at [kelvin](http://eloquent-mcnulty-4cf367.netlify.app/)
 * ✉️  You can contact me at [kelvin.mutuota.mwangi@gmail.com](mailto:kelvin.mutuota.mwangi@gmail.com)
-* 🧠  I'm learning Angular and Django
+* 🧠  I'm learning IOT and Cloud
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  As a web developer, my superpowers occur behind the scenes to make websites look great, perform well and faster with impeccable user experience. Other than coding, I spend most of my free time with friends. I've been trying to read more also, feel free to reach out with any book recommendations.
 
