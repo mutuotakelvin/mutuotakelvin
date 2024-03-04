@@ -5,7 +5,7 @@ Full-stack web developer
 ------------------------
 
 * 🌍  I'm based in Machakos, Kenya
-* 🖥️  See my portfolio at [kelvin](kelvin-five.vercel.app)
+* 🖥️  See my portfolio at [kelvin](https://kelvin-five.vercel.app)
 * ✉️  You can contact me at [kelvin.mutuota.mwangi@gmail.com](mailto:kelvin.mutuota.mwangi@gmail.com)
 * 🧠  I'm learning IOT and Cloud
 * 🤝  I'm open to collaborating on Interesting projects
